@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying paper and/or this repository."
+title: "mcp-trust: Attestation and Drift-Detection Layer for MCP Tool Binding"
+authors:
+  - family-names: "Venkatasubramaniyar"
+    given-names: "Balaji"
+url: "https://github.com/bvenkata/mcp_trust_project"
+license: MIT
+version: 0.1.0
+date-released: 2026-08-31
+preferred-citation:
+  type: conference-paper
+  title: "REPLACE WITH FINAL PAPER TITLE"
+  authors:
+    - family-names: "Venkatasubramaniyar"
+      given-names: "Balaji"
+  year: 2026
+  conference:
+    name: "REPLACE WITH IEEE VENUE NAME"
